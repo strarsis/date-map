@@ -1,0 +1,24 @@
+{
+  "name": "date-map",
+  "version": "1.0.0",
+  "description": "JavaScript Map with support for Date keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/date-map.git"
+  },
+  "keywords": [
+    "map",
+    "date",
+    "key"
+  ],
+  "author": "strarsis <strarsis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strarsis/date-map/issues"
+  },
+  "homepage": "https://github.com/strarsis/date-map#readme"
+}
